@@ -1,1 +1,3 @@
-# prime-data-pipeline-d0z5
+# Prime Data Pipeline D0Z5
+
+A data processing pipeline for modern development workflows.
